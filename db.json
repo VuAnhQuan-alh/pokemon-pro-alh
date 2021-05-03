@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alexander",
+      "password": "123456",
+      "point": 245,
+      "status": false
+    },
+    {
+      "id": 2,
+      "name": "Tony Start",
+      "password": "123456",
+      "point": 255,
+      "status": true
+    },
+    {
+      "id": 3,
+      "name": "Kevin Casio",
+      "password": "123456",
+      "point": 190,
+      "status": false
+    },
+    {
+      "id": 4,
+      "name": "An Luu",
+      "password": "1211",
+      "point": 228,
+      "status": true
+    },
+    {
+      "name": "Tai Tai",
+      "password": "1211",
+      "point": 168,
+      "status": false,
+      "id": 5
+    },
+    {
+      "name": "Son MTP",
+      "password": "1211",
+      "point": 212,
+      "status": true,
+      "id": 6
+    },
+    {
+      "name": "test",
+      "password": "1211",
+      "point": 171,
+      "status": true,
+      "id": 7
+    }
+  ]
+}
